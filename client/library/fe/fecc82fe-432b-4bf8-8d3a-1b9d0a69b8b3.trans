@@ -1,0 +1,10 @@
+{
+    "resolveMap": {
+        "../../../qfw/base/UIController": "../../../qfw/base/UIController.ts",
+        "../../../qfw/base/UIMgr": "../../../qfw/base/UIMgr.ts",
+        "../../../common/skybox/UI_SkyboxSetting": "../../../common/skybox/UI_SkyboxSetting.ts",
+        "./UILayout_Common_HUD": "UILayout_Common_HUD.ts",
+        "../../../common/ui/my_info/UI_MyInfo": "../../../common/ui/my_info/UI_MyInfo.ts",
+        "../DemoMgr": "../DemoMgr.ts"
+    }
+}

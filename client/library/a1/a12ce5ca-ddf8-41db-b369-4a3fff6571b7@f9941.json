@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qrcode_qilinzitm",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 430,
+      "height": 430
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 430,
+      "height": 430
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "a12ce5ca-ddf8-41db-b369-4a3fff6571b7@6c48a"
+  }
+}

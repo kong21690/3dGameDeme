@@ -1,0 +1,7 @@
+{
+    "resolveMap": {
+        "../../qfw/base/UIMgr": "../../qfw/base/UIMgr.ts",
+        "./hud/UI_MainMenu_HUD": "hud/UI_MainMenu_HUD.ts",
+        "./hud/UI_Common_HUD": "hud/UI_Common_HUD.ts"
+    }
+}

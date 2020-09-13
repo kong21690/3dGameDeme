@@ -1,0 +1,6 @@
+{
+    "resolveMap": {
+        "./hud/UI_Skybox_HUD": "hud/UI_Skybox_HUD.ts",
+        "../../qfw/base/UIMgr": "../../qfw/base/UIMgr.ts"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "resolveMap": {
+        "../../../qfw/base/UIController": "../../../qfw/base/UIController.ts",
+        "../../../qfw/base/UIMgr": "../../../qfw/base/UIMgr.ts",
+        "../../../qfw/components/PlayerCtrl": "../../../qfw/components/PlayerCtrl.ts",
+        "./UILayout_ModelViewer_HUD": "UILayout_ModelViewer_HUD.ts"
+    }
+}
