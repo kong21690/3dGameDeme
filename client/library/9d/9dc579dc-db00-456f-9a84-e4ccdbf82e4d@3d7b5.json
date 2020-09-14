@@ -51,9 +51,9 @@
           3
         ],
         "indexView": {
-          "offset": 677364,
-          "length": 19098,
-          "count": 9549,
+          "offset": 677268,
+          "length": 19092,
+          "count": 9546,
           "stride": 2
         }
       },
@@ -64,9 +64,9 @@
           4
         ],
         "indexView": {
-          "offset": 747918,
-          "length": 4884,
-          "count": 2442,
+          "offset": 747816,
+          "length": 4890,
+          "count": 2445,
           "stride": 2
         }
       },
@@ -77,9 +77,9 @@
           5
         ],
         "indexView": {
-          "offset": 863490,
-          "length": 8922,
-          "count": 4461,
+          "offset": 863394,
+          "length": 8916,
+          "count": 4458,
           "stride": 2
         }
       },
@@ -90,9 +90,9 @@
           6
         ],
         "indexView": {
-          "offset": 969948,
-          "length": 8082,
-          "count": 4041,
+          "offset": 969846,
+          "length": 8088,
+          "count": 4044,
           "stride": 2
         }
       }
@@ -251,8 +251,8 @@
       {
         "view": {
           "offset": 492852,
-          "length": 184512,
-          "count": 1922,
+          "length": 184416,
+          "count": 1921,
           "stride": 96
         },
         "attributes": [
@@ -300,7 +300,7 @@
       },
       {
         "view": {
-          "offset": 696462,
+          "offset": 696360,
           "length": 51456,
           "count": 536,
           "stride": 96
@@ -350,7 +350,7 @@
       },
       {
         "view": {
-          "offset": 752802,
+          "offset": 752706,
           "length": 110688,
           "count": 1153,
           "stride": 96
@@ -400,7 +400,7 @@
       },
       {
         "view": {
-          "offset": 872412,
+          "offset": 872310,
           "length": 97536,
           "count": 1016,
           "stride": 96
@@ -654,6 +654,6 @@
       ]
     ]
   },
-  "_dataLength": 978030,
-  "_hash": 1975612675
+  "_dataLength": 977934,
+  "_hash": 871824823
 }
