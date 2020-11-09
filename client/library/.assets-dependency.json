@@ -53,6 +53,28 @@
     ],
     "/Users/jiji/Documents/3dGameDeme/client/assets/resources/scenes/start/GroundPlane.mtl": [
       "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/jiji/Documents/3dGameDeme/client/assets/resources/scenes/test/material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/jiji/Documents/3dGameDeme/client/assets/resources/scenes/avatar/cocos/body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/jiji/Documents/3dGameDeme/client/assets/resources/scenes/avatar/cocos/helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/jiji/Documents/3dGameDeme/client/assets/resources/scenes/cocos/body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/jiji/Documents/3dGameDeme/client/assets/resources/scenes/cocos/helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/jiji/Documents/3dGameDeme/client/assets/resources/scenes/test/cocos/body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/jiji/Documents/3dGameDeme/client/assets/resources/scenes/test/cocos/helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
     ]
   },
   "path": {
