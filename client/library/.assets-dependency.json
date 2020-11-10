@@ -237,6 +237,9 @@
       "/Users/jiji/Documents/3dGameDeme/client/assets/chunks/unlit-fs.chunk",
       "/Users/jiji/Documents/3dGameDeme/client/assets/chunks/output.chunk",
       "/Users/jiji/Documents/3dGameDeme/client/assets/chunks/gamma.chunk"
+    ],
+    "/Users/jiji/Documents/3dGameDeme/client/assets/resources/model/cars/taxi/taxi05.FBX@733e8": [
+      "/Users/jiji/Documents/3dGameDeme/client/assets/resources/model/cars/taxi/taxi05Green.jpg"
     ]
   }
 }

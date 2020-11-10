@@ -1,0 +1,212 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f",
+  "files": [],
+  "subMetas": {
+    "cdbc4": {
+      "importer": "gltf-mesh",
+      "uuid": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@cdbc4",
+      "displayName": "",
+      "id": "cdbc4",
+      "name": "taxi02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "801a3": {
+      "importer": "gltf-mesh",
+      "uuid": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@801a3",
+      "displayName": "",
+      "id": "801a3",
+      "name": "tyre4.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c383": {
+      "importer": "gltf-mesh",
+      "uuid": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@8c383",
+      "displayName": "",
+      "id": "8c383",
+      "name": "tyre1.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4166c": {
+      "importer": "gltf-mesh",
+      "uuid": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@4166c",
+      "displayName": "",
+      "id": "4166c",
+      "name": "tyre2.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6726b": {
+      "importer": "gltf-mesh",
+      "uuid": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@6726b",
+      "displayName": "",
+      "id": "6726b",
+      "name": "tyre3.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "14b6a": {
+      "importer": "gltf-mesh",
+      "uuid": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@14b6a",
+      "displayName": "",
+      "id": "14b6a",
+      "name": "light1.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "70f69": {
+      "importer": "gltf-embeded-image",
+      "uuid": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@70f69",
+      "displayName": "",
+      "id": "70f69",
+      "name": "taxi02Gray.jpg.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f79d": {
+      "importer": "texture",
+      "uuid": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@5f79d",
+      "displayName": "",
+      "id": "5f79d",
+      "name": "贴图 #12.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@70f69"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8544": {
+      "importer": "gltf-material",
+      "uuid": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@e8544",
+      "displayName": "",
+      "id": "e8544",
+      "name": "Material #12.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9619": {
+      "importer": "gltf-scene",
+      "uuid": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@f9619",
+      "displayName": "",
+      "id": "f9619",
+      "name": "taxi02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "taxi02Gray.jpg",
+        "uri": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@70f69"
+      }
+    ],
+    "redirect": "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@f9619",
+    "assetFinder": {
+      "meshes": [
+        "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@cdbc4",
+        "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@801a3",
+        "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@8c383",
+        "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@4166c",
+        "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@6726b",
+        "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@14b6a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@5f79d"
+      ],
+      "materials": [
+        "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@e8544"
+      ],
+      "scenes": [
+        "4cdc5bba-e08b-4947-b90a-97d28ae74d2f@f9619"
+      ]
+    }
+  }
+}
