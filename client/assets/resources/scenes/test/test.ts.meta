@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "4.0.1",
   "importer": "typescript",
   "imported": true,
   "uuid": "ec1953a0-4568-4f5e-9619-2d66385734a2",
@@ -10,6 +10,7 @@
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/resources/scenes/test/test.js"
+    "moduleId": "project:///assets/resources/scenes/test/test.js",
+    "importerSettings": 0
   }
 }

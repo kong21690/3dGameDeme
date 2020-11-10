@@ -12,7 +12,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "HUD",
+    "_name": "ui_avatar_hud_panel",
     "_objFlags": 0,
     "_parent": null,
     "_children": [
@@ -283,7 +283,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -304,7 +304,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -355,7 +355,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -376,7 +376,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -412,7 +412,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -588,7 +588,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -609,7 +609,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -660,7 +660,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -681,7 +681,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -717,7 +717,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -893,7 +893,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -914,7 +914,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -965,7 +965,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -986,7 +986,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1022,7 +1022,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1095,8 +1095,8 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
-    "_name": "tou<UITransformComponent>",
+    "__type__": "cc.UITransform",
+    "_name": "tou<UITransform>",
     "_objFlags": 0,
     "node": {
       "__id__": 3
@@ -1289,7 +1289,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1310,7 +1310,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1361,7 +1361,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1382,7 +1382,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1418,7 +1418,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1594,7 +1594,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1615,7 +1615,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1666,7 +1666,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1687,7 +1687,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1723,7 +1723,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1899,7 +1899,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1920,7 +1920,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1971,7 +1971,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1992,7 +1992,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2028,7 +2028,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2101,8 +2101,8 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
-    "_name": "shen<UITransformComponent>",
+    "__type__": "cc.UITransform",
+    "_name": "shen<UITransform>",
     "_objFlags": 0,
     "node": {
       "__id__": 33
@@ -2295,7 +2295,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2316,7 +2316,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2367,7 +2367,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2388,7 +2388,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2424,7 +2424,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2600,7 +2600,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2621,7 +2621,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2672,7 +2672,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2693,7 +2693,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2729,7 +2729,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2905,7 +2905,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2926,7 +2926,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2977,7 +2977,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -2998,7 +2998,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3034,7 +3034,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3107,8 +3107,8 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
-    "_name": "shou<UITransformComponent>",
+    "__type__": "cc.UITransform",
+    "_name": "shou<UITransform>",
     "_objFlags": 0,
     "node": {
       "__id__": 63
@@ -3301,7 +3301,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3322,7 +3322,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3373,7 +3373,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3394,7 +3394,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3430,7 +3430,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3606,7 +3606,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3627,7 +3627,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3678,7 +3678,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3699,7 +3699,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3735,7 +3735,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3911,7 +3911,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3932,7 +3932,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -3983,7 +3983,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4004,7 +4004,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4040,7 +4040,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4113,8 +4113,8 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
-    "_name": "jiao<UITransformComponent>",
+    "__type__": "cc.UITransform",
+    "_name": "jiao<UITransform>",
     "_objFlags": 0,
     "node": {
       "__id__": 93
@@ -4307,7 +4307,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4328,7 +4328,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4379,7 +4379,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4400,7 +4400,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4436,7 +4436,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4612,7 +4612,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4633,7 +4633,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4684,7 +4684,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4705,7 +4705,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4741,7 +4741,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4917,7 +4917,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4938,7 +4938,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -4989,7 +4989,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -5010,7 +5010,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -5046,7 +5046,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -5119,8 +5119,8 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
-    "_name": "wq<UITransformComponent>",
+    "__type__": "cc.UITransform",
+    "_name": "wq<UITransform>",
     "_objFlags": 0,
     "node": {
       "__id__": 123
@@ -5155,7 +5155,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -5176,8 +5176,8 @@
     "_id": ""
   },
   {
-    "__type__": "cc.WidgetComponent",
-    "_name": "ops<WidgetComponent>",
+    "__type__": "cc.Widget",
+    "_name": "ops<Widget>",
     "_objFlags": 0,
     "node": {
       "__id__": 2
@@ -5219,7 +5219,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -5240,8 +5240,8 @@
     "_id": ""
   },
   {
-    "__type__": "cc.WidgetComponent",
-    "_name": "HUD<WidgetComponent>",
+    "__type__": "cc.Widget",
+    "_name": "HUD<Widget>",
     "_objFlags": 0,
     "node": {
       "__id__": 1

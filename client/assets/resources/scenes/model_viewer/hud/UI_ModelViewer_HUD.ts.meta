@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "4.0.1",
   "importer": "typescript",
   "imported": true,
   "uuid": "0c2430e8-921d-4b74-8406-7325fe3f5dc5",
@@ -10,6 +10,7 @@
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/resources/scenes/model_viewer/hud/UI_ModelViewer_HUD.js"
+    "moduleId": "project:///assets/resources/scenes/model_viewer/hud/UI_ModelViewer_HUD.js",
+    "importerSettings": 0
   }
 }

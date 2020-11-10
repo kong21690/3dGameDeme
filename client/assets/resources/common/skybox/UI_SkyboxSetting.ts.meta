@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "4.0.1",
   "importer": "typescript",
   "imported": true,
   "uuid": "4c7c40fc-0132-4000-83fa-284b33482b06",
@@ -10,6 +10,7 @@
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/resources/common/skybox/UI_SkyboxSetting.js"
+    "moduleId": "project:///assets/resources/common/skybox/UI_SkyboxSetting.js",
+    "importerSettings": 0
   }
 }

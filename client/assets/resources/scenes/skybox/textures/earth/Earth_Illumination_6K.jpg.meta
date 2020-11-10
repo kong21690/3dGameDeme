@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.18",
+  "ver": "1.0.21",
   "importer": "image",
   "imported": true,
   "uuid": "00174fad-8068-4afe-b3eb-b25e6e45fb00",
@@ -14,7 +14,7 @@
       "displayName": "Earth_Illumination_6K",
       "id": "6c48a",
       "name": "texture",
-      "ver": "1.0.19",
+      "ver": "1.0.20",
       "imported": true,
       "files": [
         ".json"
@@ -35,6 +35,7 @@
   },
   "userData": {
     "type": "texture",
-    "redirect": "00174fad-8068-4afe-b3eb-b25e6e45fb00@6c48a"
+    "redirect": "00174fad-8068-4afe-b3eb-b25e6e45fb00@6c48a",
+    "hasAlpha": false
   }
 }

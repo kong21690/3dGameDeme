@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.18",
+  "ver": "1.0.21",
   "importer": "image",
   "imported": true,
   "uuid": "a12ce5ca-ddf8-41db-b369-4a3fff6571b7",
@@ -14,7 +14,7 @@
       "displayName": "qrcode_qilinzitm",
       "id": "6c48a",
       "name": "texture",
-      "ver": "1.0.19",
+      "ver": "1.0.20",
       "imported": true,
       "files": [
         ".json"
@@ -68,6 +68,7 @@
   },
   "userData": {
     "type": "sprite-frame",
-    "redirect": "a12ce5ca-ddf8-41db-b369-4a3fff6571b7@f9941"
+    "redirect": "a12ce5ca-ddf8-41db-b369-4a3fff6571b7@f9941",
+    "hasAlpha": false
   }
 }

@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "4.0.1",
   "importer": "typescript",
   "imported": true,
   "uuid": "1146e3d8-fa37-42e1-b538-55d15ee39168",
@@ -10,6 +10,7 @@
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/resources/scenes/weapon_glow/AppStart_WeaponGlow.js"
+    "moduleId": "project:///assets/resources/scenes/weapon_glow/AppStart_WeaponGlow.js",
+    "importerSettings": 0
   }
 }

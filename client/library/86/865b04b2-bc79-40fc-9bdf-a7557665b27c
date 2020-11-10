@@ -1,8 +1,8 @@
 {
   "__type__": "cc.RenderTexture",
-  "content": {
-    "width": 256,
-    "height": 256,
-    "depthStencilFormat": 56
-  }
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_width": 1,
+  "_height": 1
 }

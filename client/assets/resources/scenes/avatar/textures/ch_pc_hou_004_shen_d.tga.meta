@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.18",
+  "ver": "1.0.21",
   "importer": "image",
   "imported": true,
   "uuid": "b0ad489f-9263-4f6d-95bb-fa041a2d8787",
@@ -14,7 +14,7 @@
       "displayName": "ch_pc_hou_004_shen_d",
       "id": "6c48a",
       "name": "texture",
-      "ver": "1.0.19",
+      "ver": "1.0.20",
       "imported": true,
       "files": [
         ".json"
@@ -35,6 +35,7 @@
   },
   "userData": {
     "type": "texture",
-    "redirect": "b0ad489f-9263-4f6d-95bb-fa041a2d8787@6c48a"
+    "redirect": "b0ad489f-9263-4f6d-95bb-fa041a2d8787@6c48a",
+    "hasAlpha": true
   }
 }

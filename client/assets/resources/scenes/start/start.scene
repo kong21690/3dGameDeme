@@ -84,7 +84,7 @@
     "_id": "c0y6F5f+pAvI805TdmxIjx"
   },
   {
-    "__type__": "cc.DirectionalLightComponent",
+    "__type__": "cc.DirectionalLight",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -203,8 +203,8 @@
     "_id": "c9DMICJLFO5IeO07EPon7U"
   },
   {
-    "__type__": "cc.CameraComponent",
-    "_name": "Camera<CameraComponent>",
+    "__type__": "cc.Camera",
+    "_name": "Camera<Camera>",
     "_objFlags": 0,
     "node": {
       "__id__": 6
@@ -304,7 +304,7 @@
     "_id": "090RCNrcFLgbByz7E7noGB"
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -325,7 +325,7 @@
     "_id": "44JC6DjaRHRaXg65qW9XgK"
   },
   {
-    "__type__": "cc.CanvasComponent",
+    "__type__": "cc.Canvas",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -501,8 +501,8 @@
     "_id": "c22nTu3mhKn7q6LIFADmTF"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 15
@@ -584,8 +584,8 @@
     "_id": "1dWyqEyThKMZmD6gjiJ0td"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 18
@@ -713,8 +713,8 @@
     "_id": "51M/tMQypOgbREZ9K8AoZj"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 22
@@ -796,8 +796,8 @@
     "_id": "e2ndeHzMdJH7KPVCBDQON8"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 25
@@ -925,8 +925,8 @@
     "_id": "27rrKJbFZO+Y7CHMEmjlZ/"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 29
@@ -1008,8 +1008,8 @@
     "_id": "7e8LZR9gdKKLl6rU2A3d9z"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 32
@@ -1137,8 +1137,8 @@
     "_id": "95uWrTo4dE1LHPGaovjKPm"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 36
@@ -1220,8 +1220,8 @@
     "_id": "1462VjyOVJrIQeJoHX/IIU"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 39
@@ -1417,8 +1417,8 @@
     "_id": "5aP+MVATRJ74B8EnG3g09d"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 45
@@ -1500,8 +1500,8 @@
     "_id": "10fTbceadMKotJzkrgwv9z"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 48
@@ -1629,8 +1629,8 @@
     "_id": "66G/oUJHtMv58GR0wdIkze"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 52
@@ -1712,8 +1712,8 @@
     "_id": "97PBDIjMlF04gflX6dznNj"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 55
@@ -1841,8 +1841,8 @@
     "_id": "7a8vU86j1OXoE0fxVqKYnl"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 59
@@ -1924,8 +1924,8 @@
     "_id": "a6Q1S5m+NIwpBy4J0hzB0j"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 62
@@ -2053,8 +2053,8 @@
     "_id": "16RS9A+C5EE6nOq1oSXGAe"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 66
@@ -2136,8 +2136,8 @@
     "_id": "a2mxz62SFCRJrEzbitYLHK"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 69
@@ -2192,11 +2192,11 @@
     "ambient": {
       "__id__": 74
     },
-    "planarShadows": {
-      "__id__": 75
-    },
     "_skybox": {
       "__id__": 76
+    },
+    "shadows": {
+      "__id__": 75
     }
   },
   {
@@ -2218,7 +2218,7 @@
     }
   },
   {
-    "__type__": "cc.PlanarShadowInfo",
+    "__type__": "cc.ShadowsInfo",
     "_enabled": true,
     "_normal": {
       "__type__": "cc.Vec3",

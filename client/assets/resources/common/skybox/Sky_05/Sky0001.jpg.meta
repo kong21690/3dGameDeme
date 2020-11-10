@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.18",
+  "ver": "1.0.21",
   "importer": "image",
   "imported": true,
   "uuid": "e4b8e520-7307-41a6-9f7e-397937afa02b",
@@ -14,7 +14,7 @@
       "displayName": "Sky0001",
       "id": "6c48a",
       "name": "texture",
-      "ver": "1.0.19",
+      "ver": "1.0.20",
       "imported": true,
       "files": [
         ".json"
@@ -35,6 +35,7 @@
   },
   "userData": {
     "type": "texture",
-    "redirect": "e4b8e520-7307-41a6-9f7e-397937afa02b@6c48a"
+    "redirect": "e4b8e520-7307-41a6-9f7e-397937afa02b@6c48a",
+    "hasAlpha": false
   }
 }

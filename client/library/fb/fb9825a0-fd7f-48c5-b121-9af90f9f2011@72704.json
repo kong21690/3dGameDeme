@@ -12,7 +12,7 @@
           0
         ],
         "indexView": {
-          "offset": 10948,
+          "offset": 11592,
           "length": 1824,
           "count": 912,
           "stride": 2
@@ -23,9 +23,9 @@
       {
         "view": {
           "offset": 0,
-          "length": 10948,
+          "length": 11592,
           "count": 161,
-          "stride": 68
+          "stride": 72
         },
         "attributes": [
           {
@@ -45,17 +45,17 @@
           },
           {
             "name": "a_tangent",
-            "format": 43,
+            "format": 44,
             "isNormalized": false
           },
           {
             "name": "a_joints",
-            "format": 35,
+            "format": 42,
             "isNormalized": false
           },
           {
             "name": "a_weights",
-            "format": 43,
+            "format": 44,
             "isNormalized": false
           }
         ]
@@ -80,6 +80,6 @@
       ]
     ]
   },
-  "_dataLength": 12772,
-  "_hash": 2096009434
+  "_dataLength": 13416,
+  "_hash": 4194113562
 }

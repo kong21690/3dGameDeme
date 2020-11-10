@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "4.0.1",
   "importer": "typescript",
   "imported": true,
   "uuid": "59efe00b-4036-4753-ae60-372107b63395",
@@ -10,6 +10,7 @@
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/resources/qfw/components/NodeFloatingAnim.js"
+    "moduleId": "project:///assets/resources/qfw/components/NodeFloatingAnim.js",
+    "importerSettings": 0
   }
 }

@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "4.0.1",
   "importer": "typescript",
   "imported": true,
   "uuid": "de70297f-154d-46c8-8ce1-7cb5b678da8f",
@@ -10,6 +10,7 @@
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/resources/qfw/base/UIController.js"
+    "moduleId": "project:///assets/resources/qfw/base/UIController.js",
+    "importerSettings": 0
   }
 }

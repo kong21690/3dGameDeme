@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.29",
+  "ver": "1.1.20",
   "importer": "prefab",
   "imported": true,
   "uuid": "64ab1d46-bc11-46e1-8074-8f3150fffb0d",
@@ -7,5 +7,7 @@
     ".json"
   ],
   "subMetas": {},
-  "userData": {}
+  "userData": {
+    "syncNodeName": "ch_pc_hou_008_shen"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "4.0.1",
   "importer": "typescript",
   "imported": true,
   "uuid": "1d2b01c0-7f0e-4fa4-b202-4c549f10a601",
@@ -10,6 +10,7 @@
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/resources/scenes/avatar/hud/UI_AvatarHUD.js"
+    "moduleId": "project:///assets/resources/scenes/avatar/hud/UI_AvatarHUD.js",
+    "importerSettings": 0
   }
 }

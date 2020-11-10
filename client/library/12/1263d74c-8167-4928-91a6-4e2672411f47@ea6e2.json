@@ -8,7 +8,9 @@
   },
   "_techIdx": 0,
   "_defines": [
-    {}
+    {
+      "HAS_SECOND_UV": true
+    }
   ],
   "_states": [
     {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "4.0.1",
   "importer": "typescript",
   "imported": true,
   "uuid": "51d025d5-545c-405c-8ab0-b092341b8559",
@@ -10,6 +10,7 @@
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/resources/qfw/components/TeleportPoint.js"
+    "moduleId": "project:///assets/resources/qfw/components/TeleportPoint.js",
+    "importerSettings": 0
   }
 }

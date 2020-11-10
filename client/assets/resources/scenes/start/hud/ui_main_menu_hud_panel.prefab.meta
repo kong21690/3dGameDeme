@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.29",
+  "ver": "1.1.20",
   "importer": "prefab",
   "imported": true,
   "uuid": "08c83b05-2e9e-48ea-bf3a-1cad092dc87a",
@@ -7,5 +7,7 @@
     ".json"
   ],
   "subMetas": {},
-  "userData": {}
+  "userData": {
+    "syncNodeName": "ui_main_menu_hud_panel"
+  }
 }

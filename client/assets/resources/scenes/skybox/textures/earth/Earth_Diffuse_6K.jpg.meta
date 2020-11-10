@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.18",
+  "ver": "1.0.21",
   "importer": "image",
   "imported": true,
   "uuid": "b1e4241c-e968-46ff-a07b-f310952ceff6",
@@ -14,7 +14,7 @@
       "displayName": "Earth_Diffuse_6K",
       "id": "6c48a",
       "name": "texture",
-      "ver": "1.0.19",
+      "ver": "1.0.20",
       "imported": true,
       "files": [
         ".json"
@@ -35,6 +35,7 @@
   },
   "userData": {
     "type": "texture",
-    "redirect": "b1e4241c-e968-46ff-a07b-f310952ceff6@6c48a"
+    "redirect": "b1e4241c-e968-46ff-a07b-f310952ceff6@6c48a",
+    "hasAlpha": false
   }
 }

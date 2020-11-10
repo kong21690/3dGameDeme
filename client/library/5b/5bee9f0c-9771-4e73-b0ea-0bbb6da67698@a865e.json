@@ -12,7 +12,7 @@
           0
         ],
         "indexView": {
-          "offset": 141304,
+          "offset": 149616,
           "length": 13722,
           "count": 6861,
           "stride": 2
@@ -25,7 +25,7 @@
           1
         ],
         "indexView": {
-          "offset": 182294,
+          "offset": 192210,
           "length": 2304,
           "count": 1152,
           "stride": 2
@@ -38,7 +38,7 @@
           2
         ],
         "indexView": {
-          "offset": 271910,
+          "offset": 286962,
           "length": 8064,
           "count": 4032,
           "stride": 2
@@ -51,7 +51,7 @@
           3
         ],
         "indexView": {
-          "offset": 399178,
+          "offset": 421242,
           "length": 11196,
           "count": 5598,
           "stride": 2
@@ -62,9 +62,9 @@
       {
         "view": {
           "offset": 0,
-          "length": 141304,
+          "length": 149616,
           "count": 2078,
-          "stride": 68
+          "stride": 72
         },
         "attributes": [
           {
@@ -84,27 +84,27 @@
           },
           {
             "name": "a_tangent",
-            "format": 43,
+            "format": 44,
             "isNormalized": false
           },
           {
             "name": "a_joints",
-            "format": 35,
+            "format": 42,
             "isNormalized": false
           },
           {
             "name": "a_weights",
-            "format": 43,
+            "format": 44,
             "isNormalized": false
           }
         ]
       },
       {
         "view": {
-          "offset": 155026,
-          "length": 27268,
+          "offset": 163338,
+          "length": 28872,
           "count": 401,
-          "stride": 68
+          "stride": 72
         },
         "attributes": [
           {
@@ -124,27 +124,27 @@
           },
           {
             "name": "a_tangent",
-            "format": 43,
+            "format": 44,
             "isNormalized": false
           },
           {
             "name": "a_joints",
-            "format": 35,
+            "format": 42,
             "isNormalized": false
           },
           {
             "name": "a_weights",
-            "format": 43,
+            "format": 44,
             "isNormalized": false
           }
         ]
       },
       {
         "view": {
-          "offset": 184598,
-          "length": 87312,
+          "offset": 194514,
+          "length": 92448,
           "count": 1284,
-          "stride": 68
+          "stride": 72
         },
         "attributes": [
           {
@@ -164,27 +164,27 @@
           },
           {
             "name": "a_tangent",
-            "format": 43,
+            "format": 44,
             "isNormalized": false
           },
           {
             "name": "a_joints",
-            "format": 35,
+            "format": 42,
             "isNormalized": false
           },
           {
             "name": "a_weights",
-            "format": 43,
+            "format": 44,
             "isNormalized": false
           }
         ]
       },
       {
         "view": {
-          "offset": 279974,
-          "length": 119204,
+          "offset": 295026,
+          "length": 126216,
           "count": 1753,
-          "stride": 68
+          "stride": 72
         },
         "attributes": [
           {
@@ -204,17 +204,17 @@
           },
           {
             "name": "a_tangent",
-            "format": 43,
+            "format": 44,
             "isNormalized": false
           },
           {
             "name": "a_joints",
-            "format": 35,
+            "format": 42,
             "isNormalized": false
           },
           {
             "name": "a_weights",
-            "format": 43,
+            "format": 44,
             "isNormalized": false
           }
         ]
@@ -341,6 +341,6 @@
       ]
     ]
   },
-  "_dataLength": 410374,
-  "_hash": 2680381790
+  "_dataLength": 432438,
+  "_hash": 1653151907
 }

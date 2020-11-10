@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "4.0.1",
   "importer": "typescript",
   "imported": true,
   "uuid": "fc0d2a52-6703-457a-886c-ff14850f93a2",
@@ -10,6 +10,7 @@
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/resources/qfw/base/UIBase.js"
+    "moduleId": "project:///assets/resources/qfw/base/UIBase.js",
+    "importerSettings": 0
   }
 }

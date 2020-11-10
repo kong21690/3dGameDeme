@@ -12,7 +12,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "HUD",
+    "_name": "ui_main_menu_hud_panel",
     "_objFlags": 0,
     "_parent": null,
     "_children": [
@@ -118,7 +118,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -139,7 +139,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -238,7 +238,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -259,7 +259,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -578,8 +578,8 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
-    "_name": "btn_prev<UITransformComponent>",
+    "__type__": "cc.UITransform",
+    "_name": "btn_prev<UITransform>",
     "_objFlags": 0,
     "node": {
       "__id__": 14
@@ -599,8 +599,8 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
-    "_name": "btn_prev<SpriteComponent>",
+    "__type__": "cc.Sprite",
+    "_name": "btn_prev<Sprite>",
     "_objFlags": 0,
     "node": {
       "__id__": 14
@@ -698,8 +698,8 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
-    "_name": "Label<UITransformComponent>",
+    "__type__": "cc.UITransform",
+    "_name": "Label<UITransform>",
     "_objFlags": 0,
     "node": {
       "__id__": 18
@@ -719,8 +719,8 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LabelComponent",
-    "_name": "Label<LabelComponent>",
+    "__type__": "cc.Label",
+    "_name": "Label<Label>",
     "_objFlags": 0,
     "node": {
       "__id__": 18
@@ -818,7 +818,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -839,7 +839,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.SpriteComponent",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -888,7 +888,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -909,7 +909,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ButtonComponent",
+    "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -972,7 +972,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -993,7 +993,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.LayoutComponent",
+    "__type__": "cc.Layout",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1036,7 +1036,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1057,7 +1057,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.MaskComponent",
+    "__type__": "cc.Mask",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1080,8 +1080,8 @@
     "_id": ""
   },
   {
-    "__type__": "cc.WidgetComponent",
-    "_name": "view<WidgetComponent>",
+    "__type__": "cc.Widget",
+    "_name": "view<Widget>",
     "_objFlags": 0,
     "node": {
       "__id__": 11
@@ -1123,7 +1123,7 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1144,7 +1144,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ScrollViewComponent",
+    "__type__": "cc.ScrollView",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1167,8 +1167,8 @@
     "_id": ""
   },
   {
-    "__type__": "cc.WidgetComponent",
-    "_name": "ScrollView<WidgetComponent>",
+    "__type__": "cc.Widget",
+    "_name": "ScrollView<Widget>",
     "_objFlags": 0,
     "node": {
       "__id__": 10
@@ -1210,8 +1210,8 @@
     }
   },
   {
-    "__type__": "cc.UITransformComponent",
-    "_name": "HUD<UITransformComponent>",
+    "__type__": "cc.UITransform",
+    "_name": "HUD<UITransform>",
     "_objFlags": 0,
     "node": {
       "__id__": 1
@@ -1231,8 +1231,8 @@
     "_id": ""
   },
   {
-    "__type__": "cc.WidgetComponent",
-    "_name": "HUD<WidgetComponent>",
+    "__type__": "cc.Widget",
+    "_name": "HUD<Widget>",
     "_objFlags": 0,
     "node": {
       "__id__": 1

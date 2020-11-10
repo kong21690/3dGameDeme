@@ -1,5 +1,5 @@
 {
-  "ver": "1.3.21",
+  "ver": "1.3.24",
   "importer": "fbx",
   "imported": true,
   "uuid": "1cda3cfb-10c5-423c-8256-80f3f0c844c6",
@@ -30,8 +30,8 @@
       "ver": "1.1.0",
       "imported": true,
       "files": [
-        ".json",
-        ".bin"
+        ".bin",
+        ".json"
       ],
       "subMetas": {},
       "userData": {
@@ -61,7 +61,7 @@
       "displayName": "",
       "id": "32d96",
       "name": "Map #0.image",
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "imported": true,
       "files": [
         ".png",
@@ -78,7 +78,7 @@
       "displayName": "",
       "id": "ab932",
       "name": "Map #0.texture",
-      "ver": "1.0.19",
+      "ver": "1.0.20",
       "imported": true,
       "files": [
         ".json"

@@ -78,7 +78,7 @@ CCProgram unlit-vs %{
   #endif
 
   #if USE_TEXTURE
-    in vec2 a_texCoord;
+    
     out vec2 v_uv;
     out vec2 screen_uv;
     uniform TexCoords {

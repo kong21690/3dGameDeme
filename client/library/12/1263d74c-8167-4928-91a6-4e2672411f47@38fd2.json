@@ -11,7 +11,7 @@
           0
         ],
         "indexView": {
-          "offset": 6192,
+          "offset": 7280,
           "length": 432,
           "count": 216,
           "stride": 2
@@ -22,9 +22,9 @@
       {
         "view": {
           "offset": 0,
-          "length": 6192,
-          "count": 129,
-          "stride": 48
+          "length": 7280,
+          "count": 130,
+          "stride": 56
         },
         "attributes": [
           {
@@ -44,7 +44,12 @@
           },
           {
             "name": "a_tangent",
-            "format": 43,
+            "format": 44,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord1",
+            "format": 21,
             "isNormalized": false
           }
         ]
@@ -63,6 +68,6 @@
       "z": 0.5
     }
   },
-  "_dataLength": 6624,
-  "_hash": 353003096
+  "_dataLength": 7712,
+  "_hash": 3151653706
 }

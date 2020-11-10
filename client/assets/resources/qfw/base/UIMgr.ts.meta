@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "4.0.1",
   "importer": "typescript",
   "imported": true,
   "uuid": "82a59405-4865-4862-b064-ae0017d54dab",
@@ -10,6 +10,7 @@
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/resources/qfw/base/UIMgr.js"
+    "moduleId": "project:///assets/resources/qfw/base/UIMgr.js",
+    "importerSettings": 0
   }
 }

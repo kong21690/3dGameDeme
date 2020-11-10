@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "4.0.1",
   "importer": "typescript",
   "imported": true,
   "uuid": "2e18f93b-5987-4c84-8252-03c3ce79398c",
@@ -10,6 +10,7 @@
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/resources/scenes/skybox/hud/UI_Skybox_HUD.js"
+    "moduleId": "project:///assets/resources/scenes/skybox/hud/UI_Skybox_HUD.js",
+    "importerSettings": 0
   }
 }

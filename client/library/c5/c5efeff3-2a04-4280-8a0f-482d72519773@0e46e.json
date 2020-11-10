@@ -144,7 +144,7 @@
     "_id": ""
   },
   {
-    "__type__": "cc.ModelComponent",
+    "__type__": "cc.MeshRenderer",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -164,6 +164,7 @@
       "__uuid__": "c5efeff3-2a04-4280-8a0f-482d72519773@a2cca"
     },
     "_shadowCastingMode": 0,
+    "_shadowReceivingMode": 1,
     "_enableMorph": true,
     "_id": ""
   },
@@ -191,7 +192,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "fduK4MjQNDpqi5nXPUE2Ke",
+    "fileId": "86mUd3bBtKH5jUsICgJuDl",
     "sync": false,
     "_synced": {
       "default": false,
@@ -206,7 +207,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "98jL0rnfJAq4WeTXznPURx",
+    "fileId": "6cE4nDVZdFRYDtUXKsOKoV",
     "sync": false,
     "_synced": {
       "default": false,
@@ -221,7 +222,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "0870y6O2lHpL1x55MI/P/v",
+    "fileId": "caIzpTs2tMN5+8SGjMGILb",
     "sync": false,
     "_synced": {
       "default": false,

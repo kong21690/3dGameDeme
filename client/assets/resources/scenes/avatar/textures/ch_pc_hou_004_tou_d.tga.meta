@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.18",
+  "ver": "1.0.21",
   "importer": "image",
   "imported": true,
   "uuid": "901bd03f-aa6c-484a-85ce-72a3890c0035",
@@ -14,7 +14,7 @@
       "displayName": "ch_pc_hou_004_tou_d",
       "id": "6c48a",
       "name": "texture",
-      "ver": "1.0.19",
+      "ver": "1.0.20",
       "imported": true,
       "files": [
         ".json"
@@ -35,6 +35,7 @@
   },
   "userData": {
     "type": "texture",
-    "redirect": "901bd03f-aa6c-484a-85ce-72a3890c0035@6c48a"
+    "redirect": "901bd03f-aa6c-484a-85ce-72a3890c0035@6c48a",
+    "hasAlpha": true
   }
 }

@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "4.0.1",
   "importer": "typescript",
   "imported": true,
   "uuid": "f67541b9-d122-4575-a923-e769f1c9bab3",
@@ -10,6 +10,7 @@
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/resources/qfw/components/PlayerCtrl.js"
+    "moduleId": "project:///assets/resources/qfw/components/PlayerCtrl.js",
+    "importerSettings": 0
   }
 }

@@ -90,7 +90,7 @@
     "_id": "c0y6F5f+pAvI805TdmxIjx"
   },
   {
-    "__type__": "cc.DirectionalLightComponent",
+    "__type__": "cc.DirectionalLight",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -162,8 +162,8 @@
     "_id": "c3opOPveJHT45dkemPPYiI"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Plane<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Plane<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 5
@@ -245,8 +245,8 @@
     "_id": "02kbiysfZO3oxsIGSY5fve"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Cylinder<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Cylinder<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 8
@@ -328,8 +328,8 @@
     "_id": "fchOBR96hHGpU0FnPqAwoh"
   },
   {
-    "__type__": "cc.ModelComponent",
-    "_name": "Cylinder<ModelComponent>",
+    "__type__": "cc.MeshRenderer",
+    "_name": "Cylinder<MeshRenderer>",
     "_objFlags": 0,
     "node": {
       "__id__": 11
@@ -473,7 +473,7 @@
     "_id": "92sCPsn4ZKEL/cGLfxbCEw"
   },
   {
-    "__type__": "cc.UITransformComponent",
+    "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -494,7 +494,7 @@
     "_id": "9b9O3oouRGoqgQRxxMUZbs"
   },
   {
-    "__type__": "cc.CanvasComponent",
+    "__type__": "cc.Canvas",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -615,7 +615,7 @@
     "_id": "c9DMICJLFO5IeO07EPon7U"
   },
   {
-    "__type__": "cc.CameraComponent",
+    "__type__": "cc.Camera",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -681,11 +681,11 @@
     "ambient": {
       "__id__": 25
     },
-    "planarShadows": {
-      "__id__": 26
-    },
     "_skybox": {
       "__id__": 27
+    },
+    "shadows": {
+      "__id__": 26
     }
   },
   {
@@ -707,7 +707,7 @@
     }
   },
   {
-    "__type__": "cc.PlanarShadowInfo",
+    "__type__": "cc.ShadowsInfo",
     "_enabled": false,
     "_normal": {
       "__type__": "cc.Vec3",
